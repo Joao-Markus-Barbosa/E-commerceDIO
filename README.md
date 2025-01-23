@@ -1,3 +1,4 @@
+![E-commerce_DIO](https://github.com/user-attachments/assets/4310b2df-fd73-46a3-a218-491fa33a8b26)
 # E-commerceDIO
 # Projeto E-commerce
 
